@@ -8,7 +8,7 @@ import {
 } from '@mui/material';
 import Head from 'next/head';
 
-import Image from '@/common/components/Atoms/images/Image';
+import Image from 'next/image';
 import RouteLink from '@/common/components/Atoms/RouteLink/RouteLink';
 import { useGetNameQuery } from '@/features/name/api';
 import vercelLogo from '@/public/vercel.svg';

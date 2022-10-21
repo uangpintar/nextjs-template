@@ -12,7 +12,7 @@
     "template",
     "next.js",
     "typescript",
-    "chakra-ui",
+    "Material UI",
     "framer-motion",
     "redux",
     "redux-toolkit",

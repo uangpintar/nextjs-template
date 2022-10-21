@@ -1,5 +1,4 @@
-import { Box } from '@chakra-ui/react';
-
+import { Box } from '@mui/material';
 import RouteLink from '@/common/components/Atoms/RouteLink/RouteLink';
 
 export default function NewPage() {
