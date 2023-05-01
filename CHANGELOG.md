@@ -1,3 +1,13 @@
+## [1.8.2](https://github.com/uangpintar/nextjs-template/compare/v1.8.1...v1.8.2) (2023-05-01)
+
+
+### Bug Fixes
+
+* remove cache ([7785e4b](https://github.com/uangpintar/nextjs-template/commit/7785e4b03cac0a29c904f4cfc4d1e39defe263bd))
+* remove unit test ([15a46e8](https://github.com/uangpintar/nextjs-template/commit/15a46e89b23fe27e006895051dcd8db3d8e5b44f))
+
+
+
 ## [1.8.1](https://github.com/uangpintar/nextjs-template/compare/v1.8.0...v1.8.1) (2022-10-21)
 
 
