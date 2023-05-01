@@ -1,12 +1,7 @@
 {
-  "name": "nextjs-template",
+  "name": "frontend",
   "version": "1.8.1",
   "description": "Opinionated Next.js template configured with TypeScript, Material UI, Redux Toolkit and other devtools",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/uangpintar/nextjs-template"
-  },
-  "author": "Finetiks",
   "license": "MIT",
   "keywords": [
     "template",
@@ -25,10 +20,6 @@
     "commitlint",
     "msw"
   ],
-  "bugs": {
-    "url": "https://github.com/uangpintar/nextjs-template/issues"
-  },
-  "homepage": "https://github.com/uangpintar/nextjs-template",
   "scripts": {
     "analyze": "ANALYZE=true next build",
     "check-all": "yarn type-check && yarn lint && yarn format",
